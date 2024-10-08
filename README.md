@@ -8,6 +8,8 @@ Welcome to my repository for projects aimed at preparing for the Databricks Cert
 - [Overview](#overview)
 - [Stages](#stages)
 - [Getting Started](#getting-started)
+- [Prerequisites](#prerequisites)
+- [Setup](#setup)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 - [Contact](#contact)
@@ -48,6 +50,25 @@ To get started with the projects, follow these steps:
 4. **Follow the project description and references** in each project’s README file to understand the objectives and resources used in the project.
 
 
+## Prerequisites
+
+- Databricks account
+- Python 3.x
+- Required Python libraries (listed in `requirements.txt`)
+
+
+## Setup
+
+1. Install required Python libraries:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+2. Create a Databricks workspace and upload the notebooks if needed.
+
+3. Follow the specific instructions for each project in its respective README file.
+
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
@@ -57,8 +78,3 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 - Special thanks to Databricks for providing resources and documentation that helped shape these projects.
 - Inspiration for the project topics was drawn from various online courses, tutorials, and official Databricks documentation.
-
-
-## Contact
-
-For any inquiries or contributions, feel free to reach out to me at [your-email@example.com](mailto:your-email@example.com).

@@ -3,7 +3,9 @@
 
 ## Overview
 
-This project focuses on exploring the Titanic dataset using PySpark. The goal is to perform exploratory data analysis (EDA) to understand the dataset's structure, identify patterns, and visualize insights. The analysis will help inform decisions regarding data preprocessing for further modeling tasks.
+This project focuses on exploring the Titanic dataset using PySpark. 
+The goal is to perform exploratory data analysis (EDA) to understand the dataset's structure, identify patterns, and visualize insights. 
+The analysis will help inform decisions regarding data preprocessing for further modeling tasks.
 
 
 ## Objectives
