@@ -1,6 +1,19 @@
 # Databricks Certified Data Engineer Professional Projects
 
 
+## Introduction
+
+The Databricks Certified Data Engineer Professional certification validates advanced skills in building, optimizing, and managing data pipelines using Databricks. This stage features a series of hands-on projects that directly correlate with the certification’s core areas, including:
+
+- **Advanced Data Ingestion**: Employing techniques for efficient and scalable data ingestion.
+- **Complex ETL Pipelines**: Designing ETL workflows using Delta Lake to ensure data consistency and reliability.
+- **Data Governance Implementation**: Establishing frameworks for data governance to maintain data quality and compliance.
+- **Machine Learning Pipelines**: Building and optimizing ML pipelines for real-time analytics.
+- **Data Lakehouse Architecture**: Implementing a lakehouse architecture that combines the benefits of data lakes and warehouses.
+
+These projects provide practical experience and demonstrate the capabilities necessary for the certification, enhancing your data engineering skill set.
+
+
 ## Projects List
 
   - [Project 1: Advanced Data Ingestion Techniques](./Project_1_Advanced_Data_Ingestion_Techniques/README.md)

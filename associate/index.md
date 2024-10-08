@@ -1,6 +1,18 @@
 # Databricks Certified Data Engineer Associate Projects
 
 
+## Introduction
+
+The Databricks Certified Data Engineer Associate certification validates your skills in designing and maintaining data pipelines using the Databricks platform. This stage include hands-on projects that align with the certification's core competencies, including:
+
+- **Data Exploration and Transformation**: Analyzing and processing datasets using PySpark and Spark SQL.
+- **ETL Processes**: Implementing robust ETL workflows with Spark and Delta Lake.
+- **Data Quality Assurance**: Establishing quality checks to ensure data integrity.
+- **Machine Learning Basics**: Applying machine learning concepts using Spark MLlib.
+
+By working through these projects, you will gain practical experience essential for passing the certification exam and advancing your career in data engineering.
+
+
 ## Projects List
 
   - [Project 1: Data Exploration with PySpark](./Project_1_Data_Exploration_with_PySpark/README.md)
